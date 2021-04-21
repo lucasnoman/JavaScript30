@@ -1,67 +1,31 @@
-# This repository is a set of various onyly javascript (without frameworks) code for training
+<center>
+  <h1>
+    <img
+      src="https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg"
+      style="width: 20px"
+    />
+    Just a repo to train JS while training some CSS
+    <img
+      src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1619032993~hmac=d5c94000a7301a6b49593e97a64aa6ad"
+      style="width: 20px"
+    />
+  </h1>
+</center>
 
-### All the codes were made watching WesBos JavaScript30 course
+## Javascript30
 
-[x] JavaScript Drum Kit - [ToCode](./JS_Drum_Kit/)
+---
 
-- Here I'm using a some keys to play drum sound, while highliting the pressed keys for a short time.
+Those [JS30]('./JS30_Days/') codes are being taught by Wes, from WesBos. He have a lot of good content that anyone who is starting at coding or who is intermediate should take a look at.
 
-[x] JS and CSS Clock
+🚀 Btw, this course is free. => [Go to JavaScript30](https://javascript30.com/)
 
-- Now, using JS Date object, setInterval and some tricks with CSS, Wes taught how to rotate the clock hands according to browser time zone.
+WesBos website: https://wesbos.com/
 
-[ ] CSS Variables
+<br />
 
-[ ] Array Cardio Day 1
+## 10 JS projects in 1 hour (I'm doing 1 for day 🙂 )
 
-[ ] Flex Panel Gallery
+---
 
-[ ] Type Ahead
-
-[ ] Array Cardio Day 2
-
-[ ] Fun with HTML5 Canvas
-
-[ ] Dev Tools Domination
-
-[ ] Hold Shift and Check Checkboxes
-
-[ ] Custom Video Player
-
-[ ] Key Sequence Detection
-
-[ ] Slide in on Scroll
-
-[ ] Javascript References VS Copying
-
-[ ] LocalStorage
-
-[ ] Mouse Move Shadow
-
-[ ] Sort Without Articles
-
-[ ] Adding Up Times with Reduce
-
-[ ] Webcam Fun
-
-[ ] Speech Detection
-
-[ ] Geolocation
-
-[ ] Follow Along Link Highligher
-
-[ ] Speech Synthesis
-
-[ ] Sticky Nav
-
-[ ] Event Capture, Propagation, Bubbling and Once
-
-[ ] Stripe Follow Along Nav
-
-[ ] Click and Drag
-
-[ ] Video Speed Controller
-
-[ ] Countdown Timer
-
-[ ] Whack A Mole
+The other [JS projects]('./JS10_Projects/'), I found when navigating on YT, by [Florin Pop](https://www.youtube.com/watch?v=8GPPJpiLqHk). Check it out. It's cool.
