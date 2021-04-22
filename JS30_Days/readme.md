@@ -4,13 +4,15 @@
 
 ### ✅ JS and CSS Clock - [ToCode](./JS_and_CSS_Clock/)
 
-- Now, using JS Date object, setInterval and some tricks with CSS, Wes taught how to rotate the clock hands according to browser time zone.
+- Using JS Date object, setInterval and some tricks with CSS, Wes taught how to rotate the clock hands according to browser time zone.
 
 ### ✅ CSS Variables - [ToCode](./CSS_Variables/)
 
-- Besides having learned how to use 'data' property on HTML tags and JS code, we used it to receive a value who were used as suffix to change the 'input range' via JS.
+- In addition to having learned how to use 'data' property on HTML tags and JS code, we used it to receive a value who were used as suffix to change the 'input range' via JS.
 
-### ❌ Array Cardio Day 1
+### ✅ Array Cardio Day 1
+
+- A series of exercise for training array functions.
 
 ### ❌ Flex Panel Gallery
 

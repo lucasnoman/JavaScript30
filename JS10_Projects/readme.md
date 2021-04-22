@@ -2,7 +2,9 @@
 
 - Just a hidden menu with hamburguer icon on it. [ToCode]('./Hamburguer/')
 
-### ❌ Toast notification
+### ✅ Toast notification
+
+- Toast notification popping from right bottom
 
 ### ❌ Auto write text
 
