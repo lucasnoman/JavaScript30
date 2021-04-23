@@ -6,7 +6,9 @@
 
 - Toast notification popping from right bottom
 
-### ❌ Auto write text
+### ✅ Auto write text
+
+- An effect to make text appear as if it were being typed
 
 ### ❌ Popup / modal
 

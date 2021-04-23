@@ -10,11 +10,13 @@
 
 - In addition to having learned how to use 'data' property on HTML tags and JS code, we used it to receive a value who were used as suffix to change the 'input range' via JS.
 
-### ✅ Array Cardio Day 1
+### ✅ Array Cardio Day 1 - [ToCode](./Array_cardio_day_1/)
 
 - A series of exercise for training array functions.
 
-### ❌ Flex Panel Gallery
+### ✅ Flex Panel Gallery - [ToCode](./Flex_panel_gallery/)
+
+- Toggling flex to expand on a vertical div
 
 ### ❌ Type Ahead
 

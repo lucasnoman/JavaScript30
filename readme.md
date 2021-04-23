@@ -1,5 +1,5 @@
 <center>
-  <h1>Just a repo to train JS while training some CSS</h1>
+  <h1>Just a repo to train JS and some CSS</h1>
 </center>
 
 ## Javascript30
